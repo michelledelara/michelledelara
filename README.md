@@ -1,16 +1,29 @@
-## Hi there 👋
+Markdown
 
-<!--
-**michelledelara/michelledelara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Michelle de Lara Ferraz Silveira Almeida
 
-Here are some ideas to get you started:
+Business-oriented professional transitioning into Business Intelligence, Data Analytics, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background in:
+- Operations
+- Strategic Analysis
+- Compliance
+- Business Intelligence
+- Data Analytics
+- Power BI
+- SQL
+- Reporting & Operational Analysis
+
+Currently studying:
+- Business Intelligence
+- Big Data
+- Artificial Intelligence
+- Cloud & Modern Analytics Platforms
+
+## Areas of Interest
+- Data Analytics
+- Business Intelligence
+- Operational Analytics
+- AI & Analytics
+- Compliance Analytics
+- Data-driven Decision Making
