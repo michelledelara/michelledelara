@@ -1,4 +1,3 @@
-Markdown
 
 # Michelle de Lara Ferraz Silveira Almeida
 
