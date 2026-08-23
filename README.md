@@ -1,28 +1,62 @@
-
 # Michelle de Lara Ferraz Silveira Almeida
 
-Business-oriented professional transitioning into Business Intelligence, Data Analytics, and AI.
+GRC, IT Governance and Data professional combining Governance, Risk & Compliance, Cybersecurity, Privacy, Data Analytics and Cloud technologies.
 
-Background in:
-- Operations
-- Strategic Analysis
-- Compliance
-- Business Intelligence
-- Data Analytics
+My work and studies connect governance, technology, data and business decision-making, with a focus on understanding risks, strengthening controls and transforming information into actionable insights.
+
+## 🔎 Core Areas
+
+- Governance, Risk & Compliance (GRC)
+- IT Governance
+- Data Governance
+- Cybersecurity
+- Privacy & Data Protection
+- Data Analytics & Business Intelligence
 - Power BI
 - SQL
-- Reporting & Operational Analysis
+- AWS Cloud
+- Risk & Compliance Analysis
+- Business and Operational Analysis
 
-Currently studying:
-- Business Intelligence
-- Big Data
-- Artificial Intelligence
-- Cloud & Modern Analytics Platforms
+## 📚 Currently Exploring
 
-## Areas of Interest
+- Cyber GRC
+- IT Governance frameworks
+- Data Governance
+- Cloud Security
+- AWS Cloud
+- Artificial Intelligence applied to Governance and Risk
+- Business Intelligence & Analytics
+
+## 🎯 Areas of Interest
+
+- Governance, Risk & Compliance (GRC)
+- IT Governance
+- Data Governance
+- Cybersecurity & Cloud Security
+- Privacy & Data Protection
+- Risk Management
+- Data Analytics & Business Intelligence
+- AI applied to GRC and Risk Management
+- Data-driven Decision Making
+
+## 🚀 Current Projects
+
+My GitHub portfolio explores the intersection between:
+
+GRC + Data Governance + IT Governance + Cybersecurity + Analytics + Cloud
+
+Projects include studies and practical applications involving:
+
+- NIST Cybersecurity Framework 2.0
+- DAMA-DMBOK
+- COBIT 2019
+- OCEG GRC
+- LGPD and Data Privacy
 - Data Analytics
 - Business Intelligence
-- Operational Analytics
-- AI & Analytics
-- Compliance Analytics
-- Data-driven Decision Making
+- Artificial Intelligence applied to Governance and Risk
+
+## 💡 Professional Focus
+
+Using governance, data and technology to support better decisions, strengthen risk management and connect business objectives with security, compliance and information management.
