@@ -2,7 +2,7 @@
 
 GRC, IT Governance and Data professional combining Governance, Risk & Compliance, Cybersecurity, Privacy, Data Analytics and Cloud technologies.
 
-My work and studies connect governance, technology, data and business decision-making, with a focus on understanding risks, strengthening controls and transforming information into actionable insights.
+My work and studies connect governance, technology, data and business decision-making, with a focus on understanding risks, strengthening controls and transforming information into actionable insights. Professional with a Law degree, focused on integrating technology, governance, risk, and compliance. AWS re/Start student from Escola da Nuvem and currently pursuing a degree in Cloud Computing at UNICID.
 
 ## 🔎 Core Areas
 
