@@ -14,7 +14,8 @@ My work and studies connect governance, technology, data and business decision-m
 - Data Analytics & Business Intelligence
 - Power BI
 - SQL
-- AWS Cloud
+- Cloud Computing
+- Cloud Security
 - Risk & Compliance Analysis
 - Business and Operational Analysis
 
