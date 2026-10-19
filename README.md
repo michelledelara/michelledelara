@@ -10,9 +10,9 @@ I earned the **AWS Certified Cloud Practitioner** certification and completed th
 
 ## Certifications & Cloud Education
 
-- **AWS Certified Cloud Practitioner** — Amazon Web Services
+- **AWS Certified Cloud Practitioner** — Amazon Web Services, october 2026
 - **AWS re/Start** — Escola da Nuvem
-- **Cloud Computing degree (in progress)** — UNICID, a Google Cloud partner
+- **Cloud Computing degree (in progress august 2026-2028)** — UNICID, a Google Cloud partner 
 
 ## Core Competencies & Focus Areas
 
