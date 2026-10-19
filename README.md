@@ -6,14 +6,20 @@ I connect governance, technology, data, and business operations to help organiza
 
 With a background in Law and experience as an entrepreneur and operations manager, I bring together analytical thinking, process improvement, customer relationships, business development, and technology. My current focus spans Cyber GRC, IT Governance, Data Governance, Cloud Security, Business Intelligence, and the business side of technology—including ERP and SaaS ecosystems, commercial operations, and data-informed sales.
 
-I completed the **AWS re/Start program at Escola da Nuvem** and am pursuing a degree in **Cloud Computing at UNICID**. I use this GitHub portfolio to document practical projects, frameworks, and experiments at the intersection of governance, data, cloud, and business.
+I earned the **AWS Certified Cloud Practitioner** certification and completed the **AWS re/Start program at Escola da Nuvem**. I am pursuing a degree in **Cloud Computing at UNICID**, an institution that partners with **Google Cloud**. I use this GitHub portfolio to document practical projects, frameworks, and experiments at the intersection of governance, data, cloud, and business.
+
+## Certifications & Cloud Education
+
+- **AWS Certified Cloud Practitioner** — Amazon Web Services
+- **AWS re/Start** — Escola da Nuvem
+- **Cloud Computing degree (in progress)** — UNICID, a Google Cloud partner
 
 ## Core Competencies & Focus Areas
 
 - **Governance, Risk & Compliance:** Cyber GRC, risk assessment, controls, compliance analysis
 - **IT & Data Governance:** COBIT 2019, DAMA-DMBOK, data quality and management
 - **Cybersecurity & Privacy:** NIST Cybersecurity Framework 2.0, LGPD, cloud security
-- **Cloud & Automation:** AWS fundamentals, Python, infrastructure and security concepts
+- **Cloud & Automation:** AWS, Python, infrastructure and security concepts
 - **Data & Business Intelligence:** SQL, Power BI, analytics, dashboards, data-driven decisions
 - **Business & Operations:** process analysis, operational improvement, customer relationships
 - **ERP, SaaS & Commercial Strategy:** business software ecosystems, solution positioning, partner channels, sales operations, CRM concepts, and opportunity analysis
@@ -45,6 +51,7 @@ Areas I am exploring and developing include:
 - Cyber GRC and security compliance
 - IT governance and risk frameworks
 - AWS and cloud security
+- Google Cloud concepts and multi-cloud environments
 - Data governance and business intelligence
 - AI applications for risk, operations, and decision support
 - ERP/SaaS ecosystems, CRM, and data-informed commercial processes
@@ -55,7 +62,7 @@ Areas I am exploring and developing include:
 
 **Data & Analytics:** SQL · Power BI · Python
 
-**Cloud & Infrastructure:** AWS · Cloud Computing · DevOps and observability concepts
+**Cloud & Infrastructure:** AWS · Google Cloud concepts · Cloud Computing · DevOps and observability concepts
 
 ## Professional Direction
 
