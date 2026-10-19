@@ -1,63 +1,64 @@
 # Michelle de Lara Ferraz Silveira Almeida
 
-GRC, IT Governance and Data professional combining Governance, Risk & Compliance, Cybersecurity, Privacy, Data Analytics and Cloud technologies.
+**GRC | IT & Data Governance | Cloud | Business Analysis | ERP & SaaS Business Development**
 
-My work and studies connect governance, technology, data and business decision-making, with a focus on understanding risks, strengthening controls and transforming information into actionable insights. Professional with a Law degree, focused on integrating technology, governance, risk, and compliance. AWS re/Start student from Escola da Nuvem and currently pursuing a degree in Cloud Computing at UNICID.
+I connect governance, technology, data, and business operations to help organizations understand risk, improve processes, make informed decisions, and identify opportunities for growth.
 
-## 🔎 Core Areas
+With a background in Law and experience as an entrepreneur and operations manager, I bring together analytical thinking, process improvement, customer relationships, business development, and technology. My current focus spans Cyber GRC, IT Governance, Data Governance, Cloud Security, Business Intelligence, and the business side of technology—including ERP and SaaS ecosystems, commercial operations, and data-informed sales.
 
-- Governance, Risk & Compliance (GRC)
-- IT Governance
-- Data Governance
-- Cybersecurity
-- Privacy & Data Protection
-- Data Analytics & Business Intelligence
-- Power BI
-- SQL
-- Cloud Computing
-- Cloud Security
-- Risk & Compliance Analysis
-- Business and Operational Analysis
+I completed the **AWS re/Start program at Escola da Nuvem** and am pursuing a degree in **Cloud Computing at UNICID**. I use this GitHub portfolio to document practical projects, frameworks, and experiments at the intersection of governance, data, cloud, and business.
 
-## 📚 Currently Exploring
+## Core Competencies & Focus Areas
 
-- Cyber GRC
-- IT Governance frameworks
-- Data Governance
-- Cloud Security
-- AWS Cloud
-- Artificial Intelligence applied to Governance and Risk
-- Business Intelligence & Analytics
+- **Governance, Risk & Compliance:** Cyber GRC, risk assessment, controls, compliance analysis
+- **IT & Data Governance:** COBIT 2019, DAMA-DMBOK, data quality and management
+- **Cybersecurity & Privacy:** NIST Cybersecurity Framework 2.0, LGPD, cloud security
+- **Cloud & Automation:** AWS fundamentals, Python, infrastructure and security concepts
+- **Data & Business Intelligence:** SQL, Power BI, analytics, dashboards, data-driven decisions
+- **Business & Operations:** process analysis, operational improvement, customer relationships
+- **ERP, SaaS & Commercial Strategy:** business software ecosystems, solution positioning, partner channels, sales operations, CRM concepts, and opportunity analysis
+- **AI for Business:** exploring applications of AI in governance, risk analysis, analytics, and business workflows
 
-## 🎯 Areas of Interest
+## Business + Technology
 
-- Governance, Risk & Compliance (GRC)
-- IT Governance
-- Data Governance
-- Cybersecurity & Cloud Security
-- Privacy & Data Protection
-- Risk Management
-- Data Analytics & Business Intelligence
-- AI applied to GRC and Risk Management
-- Data-driven Decision Making
+My entrepreneurial and operational background informs how I approach technology: solutions need to address real business needs, work in practice, and create measurable value.
 
-## 🚀 Current Projects
+Areas I am exploring and developing include:
 
-My GitHub portfolio explores the intersection between:
+- ERP and SaaS business models and ecosystems
+- Business development and commercial partnerships
+- Sales operations, CRM workflows, and customer lifecycle analysis
+- Translating business requirements into technology solutions
+- Using analytics to understand performance and support commercial decisions
+- Governance, privacy, and risk considerations in digital products and services
 
-GRC + Data Governance + IT Governance + Cybersecurity + Analytics + Cloud
+## Selected GitHub Projects
 
-Projects include studies and practical applications involving:
+- [Cyber GRC Risk Register](https://github.com/michelledelara/cyber-grc-risk-register) — cybersecurity risk scenarios and risk-management concepts informed by NIST CSF 2.0 and LGPD.
+- [Data Governance & GRC Frameworks](https://github.com/michelledelara/data-governance-grc-frameworks) — a structured exploration of data governance, GRC, and related frameworks.
+- [Multi-Cloud DevOps & Observability Lab](https://github.com/michelledelara/multi-cloud-devops-observability-lab) — practical learning across cloud, infrastructure, and observability concepts.
+- [Cloud Security & Compliance Automation](https://github.com/michelledelara/cloud-security-compliance-automation) — experiments with cloud security checks and compliance automation.
+- [Business Case Studies](https://github.com/michelledelara/business-case-studies) — business-oriented analysis and case studies.
 
-- NIST Cybersecurity Framework 2.0
-- DAMA-DMBOK
-- COBIT 2019
-- OCEG GRC
-- LGPD and Data Privacy
-- Data Analytics
-- Business Intelligence
-- Artificial Intelligence applied to Governance and Risk
+## Currently Learning
 
-## 💡 Professional Focus
+- Cyber GRC and security compliance
+- IT governance and risk frameworks
+- AWS and cloud security
+- Data governance and business intelligence
+- AI applications for risk, operations, and decision support
+- ERP/SaaS ecosystems, CRM, and data-informed commercial processes
 
-Using governance, data and technology to support better decisions, strengthen risk management and connect business objectives with security, compliance and information management.
+## Frameworks & Technologies
+
+**Frameworks:** NIST CSF 2.0 · COBIT 2019 · DAMA-DMBOK · OCEG GRC · LGPD
+
+**Data & Analytics:** SQL · Power BI · Python
+
+**Cloud & Infrastructure:** AWS · Cloud Computing · DevOps and observability concepts
+
+## Professional Direction
+
+I am interested in opportunities that connect **GRC, technology, data, business analysis, and commercial strategy**—including Cyber GRC, IT/Data Governance, Technology Risk, Business Intelligence, Sales Operations, and ERP/SaaS business development.
+
+I value practical problem-solving, clear communication, continuous learning, and technology that delivers business value.
